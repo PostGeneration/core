@@ -1,0 +1,19 @@
+{
+  "name": "postgencore",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoxa1081/postgencore.git"
+  },
+  "author": "Antoxa1081",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antoxa1081/postgencore/issues"
+  },
+  "homepage": "https://github.com/Antoxa1081/postgencore#readme"
+}
